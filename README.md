@@ -9,8 +9,8 @@ If you have any questions or suggestions :
 ---
 ## Some details
 
-* all cutscenes are in .mp4 format with english voicelines and no subtitles, I do not plan to add other languages unless being asked so if you want to see another one just create a discussion and ask it here
-* due to github limitations, cutscenes that are more than 100mb are in splitted zip files, be sure to have both .zip and .z01 files when extracting
+* all cutscenes are in `.mp4` format with english voicelines and no subtitles, I do not plan to add other languages unless being asked so if you want to see another one just [create a discussion](https://github.com/Escartem/GenshinCutscenes/discussions/new) and ask it here
+* due to github limitations, cutscenes that are more than 100mb are in splitted zip files, be sure to have both `.zip` and `.z01` files when extracting
 
 <details>
     <summary>Splitted files</summary>
