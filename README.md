@@ -4,7 +4,7 @@ All Genshin Impact cutscenes extracted from game.
 Have fun watching them :)
 
 If you have any questions or suggestions :
-[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh)
+[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh) or [create a discussion](https://github.com/Escartem/GenshinCutscenes/discussions/new)
 
 ---
 ## Some details
