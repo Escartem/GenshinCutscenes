@@ -1,4 +1,4 @@
-# GenshinCutscenes (see also : [GenshinTextures](https://github.com/Escartem/GenshinTextures))
+# GenshinCutscenes (see also : [GenshinTextures](https://github.com/Escartem/GenshinTextures) | [GenshinAudio](https://github.com/Escartem/GenshinAudio))
 All Genshin Impact cutscenes extracted from game.
 
 Have fun watching them :)
