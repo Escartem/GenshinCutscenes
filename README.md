@@ -1,42 +1,50 @@
 # GenshinCutscenes (also see : [GenshinTextures](https://github.com/Escartem/GenshinTextures) | [GenshinAudio](https://github.com/Escartem/GenshinAudio))
 All Genshin Impact cutscenes extracted from game.
 
-Have fun watching them :)
+# This repo received a DMCA takedown from MiHoYo, all of the cutscenes are removed from the repository and it's commit history.
+## This is sad to see this repo end so quickly but it is the way of things, the discussions are still enabled if you want to talk and i'll leave the link to my discord server if you have any questions : [![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh)
 
-If you have any questions or suggestions :
-[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh) or [create a discussion](https://github.com/Escartem/GenshinCutscenes/discussions/new)
+# Here is a part of the DMCA takedown notice :
+```
+**Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
----
-## How to download
-You can :
-* [Browse the files](https://github.com/Escartem/GenshinCutscenes/tree/master/VideoAssets) and download the ones you need individually
-* [Download the entire repo](https://github.com/Escartem/GenshinCutscenes/archive/refs/heads/master.zip) as a zip file (~6Gb)
-* Clone the repo with `git clone https://github.com/Escartem/GenshinCutscenes` including .git folder (~12Gb)
+We are the copyright owner of the game Genshin Impact, see https://genshin.hoyoverse.com/en/
 
----
-## Some details
+**Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
 
-* all cutscenes are in `.mp4` format with english voicelines and no subtitles, I do not plan to add other languages unless being asked so if you want to see another one just [create a discussion](https://github.com/Escartem/GenshinCutscenes/discussions/new) and ask it here
-* most cutscenes are in the folder with the name of the region it is related to, however older cutscenes are in the main folder so make sure to check everything when searching for one specific video
-* due to github limitations, cutscenes that are more than 100mb are in splitted zip files, be sure to have both `.zip` and `.z01` files when extracting
+Dear,
 
-<details>
-    <summary>Splitted files</summary>
-  
-    /VideoAssets/AfterBattle/Cs_102205_AfterBattle_Boy.mp4
-    /VideoAssets/AfterBattle/Cs_102205_AfterBattle_Girl.mp4
-    /VideoAssets/Inazuma/YaeMiko/Cs_Inazuma_LQ1203105_YaeMiko_Boy.mp4
-    /VideoAssets/Inazuma/YaeMiko/Cs_Inazuma_LQ1203105_YaeMiko_Girl.mp4
-    /VideoAssets/LiYue/BreakThroughSpace/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.mp4
-    /VideoAssets/LiYue/BreakThroughSpace/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.mp4
-    /VideoAssets/ShenheBattle/Cs_LQ1101502_ShenheBattle_Boy.mp4
-    /VideoAssets/ShenheBattle/Cs_LQ1101502_ShenheBattle_Girl.mp4
-    /VideoAssets/Sumeru/AQ/SKP/Cs_Sumeru_AQ_30280901_SKP_Boy.mp4
-    /VideoAssets/Sumeru/AQ/SKP/Cs_Sumeru_AQ_30280901_SKP_Girl.mp4
-    /VideoAssets/Sumeru/Cs_Sumeru_AQ302105_GOTP.mp4
-</details>
+This is COGNOSPHERE PTE. LTD. We are here to report a few infringing repositories on Github. Without our authorization, the links identified herein contain and display openly the codes/source codes of our game package, which have constituted as a copyright infringement as well as a violation of the Terms of Service of the game.
 
----
-## Credits
+The infringing URLs are:
 
-I do not own the videos as they are the property of Genshin or Mihoyo idk, but if you are using them it would be appreciated to credit me or add a link to this repo to help it gain attraction and help people know it exists, thx <3
+1, [https://github.com/Escartem/GenshinTextures](https://github.com/Escartem/GenshinTextures)
+
+We find that the “**Texture2D**” folder in this repository contains our codes decoded from our game package. Check [https://github.com/Escartem/GenshinTextures/tree/master/Texture2D/Avatar](https://github.com/Escartem/GenshinTextures/tree/master/Texture2D/Avatar) for example.
+
+Meanwhile, in the “readme” part, the creator of this repo clearly states that it contains “All Genshin Impact textures extracted from game such as map and characters textures, items icons, ui and other stuff”, which further proves our point.
+
+2，[https://github.com/Escartem/GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes)
+
+It is from the same creator who decodes our game package. For example, the file in [https://github.com/Escartem/GenshinCutscenes/blob/master/VideoAssets/LongWangStroy/Cs_LYAQ1112308_LongWangStroy.mp4](https://github.com/Escartem/GenshinCutscenes/blob/master/VideoAssets/LongWangStroy/Cs_LYAQ1112308_LongWangStroy.mp4) is video from our game.
+
+The infringement has caused a great harm to us. We request a permanent removal of the repositories.
+
+Many thanks!
+
+**What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
+
+The entire repositories we mentioned above should be removed.  
+https://github.com/Escartem/GenshinTextures  
+https://github.com/Escartem/GenshinCutscenes
+
+**So that we can get back to you, please provide either your telephone number or physical address.**
+
+[private]  
+[private]  
+[private]  
+
+**Please type your full legal name below to sign this request.**
+
+[private]  
+```
