@@ -1,3 +1,7 @@
+# If you want cutscenes and all of the other stuff, everything is now [here](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
+
+---
+
 # GenshinCutscenes (also see : [GenshinTextures](https://github.com/Escartem/GenshinTextures) | [GenshinAudio](https://github.com/Escartem/GenshinAudio))
 All Genshin Impact cutscenes extracted from game.
 
